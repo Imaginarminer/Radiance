@@ -1,4 +1,4 @@
-Universal Aim Assist Framework
+Universal Aim Assist
     Release 0.1
 
 --! Debugger
